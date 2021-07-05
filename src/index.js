@@ -1,17 +1,45 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+// import './use-state-demo/counter-with-hook'
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
+// import './use-state-demo/counter-with-hook-caveat'
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+// import './use-state-demo/use-state-object-manage-caveat'
+
+// import './use-state-demo/theme-component-demo'
+
+// import './use-state-demo/todo-app-demo'
+
+// import './use-effect-demo/use-effect-deps'
+
+// import './use-effect-demo/use-effect-intro'
+
+// import './use-effect-demo/use-effect-using-local-storage'
+
+// import './use-effect-demo/use-effect-unmount'
+
+// import './use-effect-demo/use-effect-unmount-deps'
+
+// import './use-effect-demo/use-effect-with-dom'
+
+// import './use-effect-demo/use-effect-fetch-api'
+
+// import './use-effect-demo/test'
+
+// import './use-ref-demo/use-ref-practice-form'
+
+// import './use-ref-demo/use-ref-practice-click-game'
+
+import './use-context-demo/use-context-using-user-context'
+
+// import './use-context-demo/use-context-using-theme-context'
+
+// import './use-context-demo/fake-user-app'
+
+// import './use-context-demo/use-context-fake-login-button-intergrated'
+
+// import './use-reducer-demo/use-reducer-counter-1'
+
+// import './use-reducer-demo/use-reducer-counter-2'
+
+// import './use-reducer-demo/use-reducer-todo-app-1'
+
+// import './use-reducer-demo/use-reducer-todo-app-2'
